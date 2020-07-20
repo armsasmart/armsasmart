@@ -4,7 +4,7 @@ I'm Arm. I'm a software engineer who write a program every day 😂.
 
 🔭 I’m currently working on [Entercorp](https://entercorp.net/).
 
-🌱 I’m currently learning business, Javascirpt and PHP language.
+🌱 I’m currently learning Javascirpt (Vue.js, Node.js), Livewire and Laravel.
 
 👯 I’m looking to collaborate on Javascript (Vue.js, Node.js) / PHP (Laravel) projects.
 
