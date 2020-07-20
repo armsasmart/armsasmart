@@ -14,7 +14,7 @@ I'm Arm. I'm a software engineer who write a program every day 😂.
 
 😄 Pronouns: He / Him.
 
-⚡ Fun fact: I'm a Instigated.
+⚡ Fun fact: I'm a Instigated. 🤣
 
 📫 How to reach me: 
 
