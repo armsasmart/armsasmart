@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 
 
 I'm Arm. I'm a software engineer who write a program every day 😂.
 
@@ -22,6 +22,8 @@ I'm Arm. I'm a software engineer who write a program every day 😂.
 [![Connect with Facebook](https://img.shields.io/badge/--facebook?label=Facebook&logo=Facebook&style=social)](https://www.facebook.com/arm.sirawit.75)
 [![Chat on Instagram](https://img.shields.io/badge/--instagram?label=Instagram&logo=Instagram&style=social)](https://www.instagram.com/armsirawitt/)
 [![Come on Dev.to](https://img.shields.io/badge/--devto?label=Dev.to&logo=Dev.to&style=social)](https://dev.to/sirawit)
+
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=armsasmart)](https://github.com/LordDashMe/github-contribution-stats/)
 
 
 <!--
