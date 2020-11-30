@@ -2,7 +2,7 @@
 
 I'm Arm. I'm a software engineer who write a program every day 😂.
 
-- 🔭 I’m currently working on [MFEC](https://www.mfec.co.th/).
+<!-- - 🔭 I’m currently working on [MFEC](https://www.mfec.co.th/). -->
 - 🌱 I’m currently learning Magento 2.
 - 👯 I’m looking to collaborate on Javascript (Vue.js, Node.js) / PHP (Laravel) projects.
 - 🤔 I’m looking for help with becoming a full-stack developer.
