@@ -2,8 +2,8 @@
 
 I'm Arm. I'm a software engineer who write a program every day 😂.
 
-- 🌱 I’m currently learning Magento 2.
-- 👯 I’m looking to collaborate on Javascript (Vue.js, Node.js) / PHP (Laravel) projects.
+- 🌱 I’m currently learning Nodejs & React.
+- 👯 I’m looking to collaborate on Javascript (Vue.js, React, Node.js) / PHP (Laravel) projects.
 - 🤔 I’m looking for help with becoming a full-stack developer.
 - 💬 Ask me about life, programmimg, game and general.
 - 😄 Pronouns: He / Him.
